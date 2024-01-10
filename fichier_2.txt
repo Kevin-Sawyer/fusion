@@ -1,3 +1,9 @@
 Ceci est mon fichier 2.
 
+<<<<<<< HEAD
 Ajout de contenu pour tester git diff
+=======
+Ajout de contenu pour tester git diff
+
+Ajout de contenu pour feature_2
+>>>>>>> feature_2
