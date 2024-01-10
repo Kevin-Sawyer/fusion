@@ -1,1 +1,3 @@
 Ceci est mon fichier 1.
+
+Ajout de contenu pour tester git status
