@@ -1,0 +1,5 @@
+Ceci est mon fichier 2.
+
+Ajout de contenu pour tester git diff
+
+Ajout de contenu pour feature_2
