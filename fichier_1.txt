@@ -11,3 +11,5 @@ commit 1
 commit 2
 
 commit 3
+
+Je rajoute du contenu pour tester stash.
