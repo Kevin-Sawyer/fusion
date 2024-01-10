@@ -7,3 +7,7 @@ Ajout de contenu pour feature_1 et feature_2
 cherry_pick:
 
 commit 1
+
+commit 2
+
+commit 3
