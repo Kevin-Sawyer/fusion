@@ -3,3 +3,7 @@ Ceci est mon fichier 1 et 2
 Ajout de contenu pour tester git status et git diff
 
 Ajout de contenu pour feature_1 et feature_2
+
+cherry_pick:
+
+commit 1
